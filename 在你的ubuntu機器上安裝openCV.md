@@ -1,4 +1,4 @@
-# 在你的ubuntu機器上安裝openCV3.x
+# 在你的ubuntu機器上安裝openCV
 
 ## 環境
 ubuntu 16.04
